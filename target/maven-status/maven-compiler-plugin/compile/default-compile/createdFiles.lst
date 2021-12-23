@@ -1,0 +1,7 @@
+com\example\springsecuritydemo\models\MyUserDetails.class
+com\example\springsecuritydemo\SpringsecuritydemoApplication.class
+com\example\springsecuritydemo\UserRepository.class
+com\example\springsecuritydemo\MyUserDetailsService.class
+com\example\springsecuritydemo\RestController.class
+com\example\springsecuritydemo\SecurityConfig.class
+com\example\springsecuritydemo\models\User.class
